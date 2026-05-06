@@ -1,29 +1,75 @@
-# 👋 Hi, I'm Muhammad Fahad
+# 👋 Muhammad Fahad
 
-🚀 Senior WordPress Developer | AI Automation Expert  
-💡 14+ Years Experience | n8n · OpenAI · Custom Plugins  
+**Full-Stack Developer & AI Automation Expert**  
+Laravel · WordPress · n8n · Make.com · OpenAI · Custom GPTs  
+
+📍 Remote | 14+ Years Experience  
+💼 Open to Freelance & Full-Time Roles  
+
+---
+
+## 🚀 About Me
+
+Full-stack developer with 14+ years of remote experience, including 11 years at a Canadian product company (247 Labs).
+
+I specialize in building **real-world AI systems and scalable web applications** — from backend architecture to automation workflows.
+
+I don’t just prototype — I build, deploy, and maintain production systems.
 
 ---
 
 ## 🧠 What I Do
-- 🔧 Advanced WordPress Development (Plugins, APIs, Performance)
-- 🤖 AI Automation (n8n, Make, GPT integrations)
-- ⚡ SEO & Data Automation Systems
+
+- 🤖 AI Automation (n8n, Make.com, OpenAI, Custom GPTs)
+- 🔧 Full-Stack Development (Laravel, WordPress, React)
+- 🔌 API Integrations (CRMs, Payments, Third-party services)
+- ⚡ Workflow Automation & Data Pipelines
 
 ---
 
-## 🚀 Featured Projects
-- 🔹 SEO Report Automation (n8n + DataForSEO + GPT)
-- 🔹 AI PDF Search System (Vector DB + OpenAI)
-- 🔹 Multi-site WordPress Automation Hub
+## 💡 Selected Work
+
+- **AI Voice Pipeline**  
+  Audio → Whisper → OpenAI Agents → Vector DB → Database updates (fully automated)
+
+- **Autonomous Content System**  
+  AI agents that collect, generate, and publish content to WordPress
+
+- **Business Automation Workflows**  
+  Multi-step systems connecting CRMs, payments, and internal tools using n8n / Make
 
 ---
 
 ## 🛠️ Tech Stack
-PHP | WordPress | Laravel | n8n | OpenAI | MySQL | Docker
+
+**Backend:** Laravel, PHP, MySQL, Python  
+**Frontend:** React.js, JavaScript  
+**CMS:** WordPress, WooCommerce, Shopify, Webflow  
+**AI & Automation:** OpenAI, n8n, Make.com, Vector Databases  
 
 ---
 
-## 📫 Contact Me
-- LinkedIn: your link
-- Portfolio: your link
+## 🌍 Experience
+
+- 11+ years at a Canadian product company (247 Labs)  
+- Built and maintained long-term production systems  
+- Worked across e-commerce, automotive, education, and SaaS  
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: https://www.linkedin.com/in/muhammadfahadqureshi/  
+- Upwork: https://www.upwork.com/freelancers/~0119fd4bb6851155f5  
+
+---
+
+## ⚡ What You Can Expect
+
+- Clean, scalable code  
+- Strong communication (remote-first mindset)  
+- Ownership from idea → deployment → maintenance  
+
+---
+
+⭐ If you're building something with AI + web, I can help bring it to production.
